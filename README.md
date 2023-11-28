@@ -10,7 +10,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DAXXSIR/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/aw-code/count.svg" />
 </p>
 
 <p align="center">
