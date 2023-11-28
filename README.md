@@ -29,7 +29,7 @@
 <img src="https://graph.org/file/d1018753d9a85f46c2fe4.jpg" width="320" height="38.45"/></a></p>
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
- [ 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🍑](https://telegram.me/CYBERDAXXX)
+ [ 𝐂𝐘𝐁𝐄𝐑 𝐃𝐀𝐗𝐗 🍑](https://telegram.me/AWCODE3)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
